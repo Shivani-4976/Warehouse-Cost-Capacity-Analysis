@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=220&section=header&text=Warehouse%20Analytics&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cost%20%7C%20Capacity%20%7C%20Productivity%20%7C%20Commercial%20Insights&descAlignY=55&descSize=18"/>
 
-# 📦 Warehouse Cost & Capacity Analysis
+# 📦 Warehouse Cost & Capacity Analysis by shivani raj
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Turning+Warehouse+Data+into+Business+Insights;Analyzing+Cost+%26+Capacity;Measuring+Labour+Productivity;Understanding+Revenue+%26+Contribution;Python+%7C+SQL+%7C+Excel+%7C+Power+BI" />
 
